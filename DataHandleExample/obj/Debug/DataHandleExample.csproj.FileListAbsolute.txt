@@ -1,0 +1,12 @@
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\obj\Debug\DataHandleExample.csprojResolveAssemblyReference.cache
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\DataHandleExample.exe.config
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\DataHandleExample.exe
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\DataHandleExample.pdb
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\DataHandle.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\EntityFramework.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\DataHandle.pdb
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\EntityFramework.xml
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\obj\Debug\DataHandleExample.exe
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\obj\Debug\DataHandleExample.pdb
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandleExample\bin\Debug\EntityFramework.SqlServer.xml

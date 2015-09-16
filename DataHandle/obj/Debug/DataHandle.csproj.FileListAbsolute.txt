@@ -1,0 +1,9 @@
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\DataHandle.dll.config
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\DataHandle.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\DataHandle.pdb
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\EntityFramework.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\EntityFramework.xml
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\obj\Debug\DataHandle.dll
+C:\Users\suba\Documents\ResearchNDevelopment\JobsNProjects\ekcms\DataHandle\obj\Debug\DataHandle.pdb
